@@ -1,0 +1,7 @@
+{
+  "name": "qroud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
